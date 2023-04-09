@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
 <h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
 <!-- - 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot** -->
-<h3 align="left">Codewars Profile Badges:</h3>
+<h3 align="left">Codewars profile badges:</h3>
 <p align="center"><img  src="https://www.codewars.com/users/Ghandi-dev/badges/large" alt="ghandi-dev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
