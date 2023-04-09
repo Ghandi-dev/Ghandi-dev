@@ -1,4 +1,6 @@
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<p align="center">
+    <img src="[https://iili.io/bVEujt.png](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" width="100%" alt="banner">
+</p>
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
 <h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
 <!-- - 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot** -->
