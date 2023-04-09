@@ -1,7 +1,7 @@
 <h1>Hi 👋, saya Sonnya Ghandi</h1>
 <h3>Mahasiswa semester 6 Teknik Informatika</h3>
 
-- 🌱 yang sedang saya pelajari **Java OOP, Framework Sringboot**
+- 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
