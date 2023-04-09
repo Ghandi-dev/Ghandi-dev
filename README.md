@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" width="100%" alt="banner">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3PmYPgSEzZ9jdq_iD_-2o7&ust=1681137496971000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC60ayDnf4CFQAAAAAdAAAAABAE" width="100%" alt="banner">
 </p>
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
 <h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
