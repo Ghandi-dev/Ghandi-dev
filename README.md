@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
 <h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
-- 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot**
+<!-- - 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot** -->
+<h3 align="left">Codewars Profile Badges:</h3>
 <p align="center"><img  src="https://www.codewars.com/users/Ghandi-dev/badges/large" alt="ghandi-dev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,9 +10,6 @@
 <p align="left">
 <a href="https://instagram.com/ghandi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghandi_02" height="30" width="40" /></a>
 </p>
-<h3 align="left">Codewars Profile Badges:</h3>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghandi-dev&show_icons=true&locale=en&layout=compact" alt="ghandi-dev" /></p>
 
