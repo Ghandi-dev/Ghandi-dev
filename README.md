@@ -14,6 +14,6 @@
 <a href="https://instagram.com/ghandi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghandi_02" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghandi-dev&show_icons=true&locale=en&layout=compact" alt="ghandi-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghandi-dev&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent" alt="ghandi-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghandi-dev&show_icons=true&locale=en" alt="ghandi-dev" /></p>
