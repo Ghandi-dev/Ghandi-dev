@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/ghandi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghandi_02" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Codewars Profile Badges:</h3>
 <img align="center" src="https://www.codewars.com/users/Ghandi-dev/badges/large" alt="ghandi-dev" />
 
 <h3 align="left">Languages and Tools:</h3>
