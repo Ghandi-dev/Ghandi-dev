@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
-<h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
+<h1>Hi 👋, saya Sonnya Ghandi</h1>
+<h3>Mahasiswa semester 6 Teknik Informatika</h3>
 
 - 🌱 yang sedang saya pelajari **Java OOP, Framework Sringboot**
 
