@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://iili.io/bVEujt.png" width="100%" alt="banner">
+</p>
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
 <h3 align="center">Mahasiswa semester 6 Teknik Informatika</h3>
 <!-- - 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot** -->
