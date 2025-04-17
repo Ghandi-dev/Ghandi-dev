@@ -2,7 +2,6 @@
     <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="50%" alt="banner">
 </p>
 <h1 align="center">Hi 👋, saya Sonnya Ghandi</h1>
-<h3 align="center">Mahasiswa semester 8 Teknik Informatika</h3>
 <!-- - 🌱 yang sedang saya pelajari saat ini : **Java OOP, Framework Sringboot** -->
 <h3 align="left">Codewars profile badges:</h3>
 <img  src="https://www.codewars.com/users/Ghandi-dev/badges/large" alt="ghandi-dev" />
